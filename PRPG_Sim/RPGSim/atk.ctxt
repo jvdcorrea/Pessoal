@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=atk
+comment1.params=
+comment1.target=void\ main()
+comment2.params=s
+comment2.target=int\ roll(java.lang.String)
+comment3.params=turnos\ str\ lck\ dado
+comment3.target=int\ testcrit(int,\ int,\ int,\ java.lang.String)
+numComments=4

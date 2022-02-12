@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Simulations
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=qtdd
+comment2.target=void\ iceRapier(int)
+comment3.params=nEsq\ CA
+comment3.target=void\ necroArmy(int,\ int)
+comment4.params=s
+comment4.target=int\ roll(java.lang.String)
+numComments=5
